@@ -1,0 +1,14 @@
+{
+	"layers": [{
+		"id": "NEXSO_9114",
+		"label": "% of Population Below Poverty Line",
+		"url": "http://nexso.esri.com/arcgis/rest/services/NEXSO/MapServer/23",
+		"labelField": "NAME_1",
+		"fields": [
+			"NAME_1",
+			"ppov"
+		],
+		"filterField": "ppov"
+	}],
+	"highLightColor": "#f5f50e"
+}
